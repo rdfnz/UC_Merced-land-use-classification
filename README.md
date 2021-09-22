@@ -22,6 +22,6 @@ The dataset we used in this project is provided by
 - [```KMMI_UCMERCED_Land_Use_Classification.ipynb```](https://github.com/rdfnz/UC_Merced-land-use-classification/blob/main/KMMI_UCMERCED_Land_Use_Classification.ipynb) - Build model using basic CNN, Transfer Learning (VGG16, MobileNet, InceptionV3)
 - [```KMMI_Land_Use_Deployment_using_Flask.ipynb```](https://github.com/rdfnz/UC_Merced-land-use-classification/blob/main/KMMI_Land_Use_Deployment_using_Flask.ipynb) - Deploy model with Flask and Flask_ngrok in google colab 
 
-##How to Deploy
+## How to Deploy
 - Upload deployment folder in google drive
 - Don't forget to change path to the deployment folder in your google drive
